@@ -32,7 +32,7 @@ O processo engloba desde a análise exploratória e tratamento de um grande volu
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
