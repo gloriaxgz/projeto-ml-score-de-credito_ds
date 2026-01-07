@@ -14,7 +14,7 @@
 
 ---
 
-### 📂 Sobre o Projeto
+### Sobre o Projeto
 
 Este projeto foi desenvolvido para resolver um desafio central no setor financeiro: **como avaliar de forma precisa e automatizada o risco de inadimplência de novos clientes?** A solução implementada é um sistema completo de Machine Learning que classifica clientes com base na sua probabilidade de pagamento, otimizando a tomada de decisão para concessão de crédito.
 
@@ -22,7 +22,7 @@ O processo engloba desde a análise exploratória e tratamento de um grande volu
 
 ---
 
-### ✨ Funcionalidades Principais & Competências Demonstradas
+### Funcionalidades Principais & Competências Demonstradas
 
 * **Análise e Tratamento de Dados:** Realizei uma análise exploratória (EDA) aprofundada para identificar padrões e correlações, aplicando técnicas robustas de limpeza e pré-processamento de dados.
 * **Engenharia de Features:** Desenvolvi novas features a partir dos dados brutos, criando variáveis com alto poder preditivo que foram cruciais para a performance final do modelo.
